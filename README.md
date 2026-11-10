@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner & Typing Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=090a0f,1e3a8a,059669,10b981&height=220&section=header&text=Sakif%20Istiak%20Fahim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Product%20Builder%20%7C%20Technology%20Entrepreneur&descFontSize=16&descAlignY=62&descColor=93c5fd" width="100%" alt="Header Banner" />
+  <!-- Clean Dark Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a0f,50:1e3a8a,100:10b981&height=200&section=header&text=Sakif%20Istiak%20Fahim&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Product%20Builder%20%7C%20Technology%20Entrepreneur&descFontSize=16&descAlignY=62&descColor=93c5fd" width="100%" alt="Sakif Istiak Fahim" />
 
   <!-- Live Dynamic Typing SVG -->
   <a href="https://sakifistiak.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Scalable+Digital+Products.;Laravel+%2B+MySQL+Backend+Architecture.;Ex-Development+Team+Lead+%40+Ecare+Solution.;Frontline+Technical+Support+Exp+%40+Hostnin.;BBA+Student+%40+Varendra+University%2C+Rajshahi.;Bridging+Code+with+Commercial+Business+Strategy." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Scalable+Digital+Products.;Laravel+%2B+MySQL+Backend+Architecture.;Ex-Development+Team+Lead+%40+Ecare+Solution.;Frontline+Technical+Support+Exp+%40+Hostnin.;BBA+Student+%40+Varendra+University%2C+Rajshahi.;Bridging+Code+with+Commercial+Business+Strategy." alt="Typing Animation" />
   </a>
 
   <br />
@@ -51,9 +51,9 @@ specialization:
 
 <div align="center">
 
-  <!-- Clean Unified Skill Icons -->
+  <!-- Unified Dark-mode Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,linux,ubuntu,nginx,docker,react,tailwind,js,git,postman,vscode&perline=7" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,linux,ubuntu,nginx,docker,react,tailwind,js,git,postman,vscode&perline=7" alt="Tech Stack Icons" />
   </a>
 
 </div>
@@ -128,11 +128,15 @@ specialization:
 
 ---
 
-### 📊 GitHub Analytics & Repository Metrics
+### 📊 GitHub Analytics & Activity Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakifistiak&show_icons=true&theme=github_dark&hide_border=true&bg_color=090a0f&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakifistiak&layout=compact&theme=github_dark&hide_border=true&bg_color=090a0f&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakifistiak&theme=github_dark" width="100%" alt="Sakif's GitHub Summary" />
+</div>
+
+<div align="center" style="margin-top: 8px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakifistiak&theme=github_dark" height="175" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakifistiak&theme=github_dark" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -141,10 +145,10 @@ specialization:
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### ⚡ Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sakifistiak/sakifistiak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/sakifistiak/sakifistiak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
