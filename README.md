@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a0f,50:1e3a8a,100:10b981&height=200&section=header&text=Sakif%20Istiak%20Fahim&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Product%20Builder%20%7C%20Technology%20Entrepreneur&descFontSize=16&descAlignY=62&descColor=93c5fd" width="100%" alt="Sakif Istiak Fahim" />
 
   <!-- Live Dynamic Typing SVG -->
-  <a href="https://sakifistiak.com">
+  <a href="https://sakif.pro.bd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Scalable+Digital+Products.;Laravel+%2B+MySQL+Backend+Architecture.;Ex-Development+Team+Lead+%40+Ecare+Solution.;Frontline+Technical+Support+Exp+%40+Hostnin.;BBA+Student+%40+Varendra+University%2C+Rajshahi.;Bridging+Code+with+Commercial+Business+Strategy." alt="Typing Animation" />
   </a>
 
@@ -12,7 +12,7 @@
 
   <!-- Profile Quick Status Pills -->
   <p align="center">
-    <a href="https://sakifistiak.com"><img src="https://img.shields.io/badge/Portfolio-sakifistiak.com-3b82f6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://sakif.pro.bd"><img src="https://img.shields.io/badge/Portfolio-sakif.pro.bd-3b82f6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/sakifistiak"><img src="https://img.shields.io/badge/LinkedIn-sakifistiak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://facebook.com/sakifistiak1/"><img src="https://img.shields.io/badge/Facebook-sakifistiak1-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
     <a href="https://wa.me/8801727164101"><img src="https://img.shields.io/badge/WhatsApp-01727164101-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -159,8 +159,8 @@ I am always keen to collaborate on **Laravel backends**, **SaaS product architec
 
 <div align="center">
 
-  <a href="https://sakifistiak.com">
-    <img src="https://img.shields.io/badge/🌐_Official_Website-sakifistiak.com-000000?style=for-the-badge&logoColor=white" alt="Website" />
+  <a href="https://sakif.pro.bd">
+    <img src="https://img.shields.io/badge/🌐_Official_Website-sakif.pro.bd-000000?style=for-the-badge&logoColor=white" alt="Website" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/sakifistiak">
